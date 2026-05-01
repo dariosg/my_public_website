@@ -3,6 +3,8 @@ layout: page
 permalink: /teaching/
 title: docencia/teaching
 description: Esta página contiene información docente
+nav: true
+nav_order: 1
 ---
 
 *The content of this page is in Spanish because my classes are taught in this

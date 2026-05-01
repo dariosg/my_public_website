@@ -2,9 +2,9 @@
 layout: page
 permalink: /publications/
 title: publications
-description: List of publications per year.
+description: List of never up-to-date publications.
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 
 ### oficial publication lists
