@@ -13,8 +13,8 @@ profile:
     <p>Ed. Ada Byron. C\ María de Luna 1</p>
     <p>Zaragoza, España 50018</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -40,6 +40,6 @@ Prior to my academic career, I spent time as a researcher at Qualcomm Research S
 working on heterogeneous programming models, an experience that continues to shape my research
 agenda. I graduated from the Universidad de Zaragoza in 2011.
 
-Feel free to reach out if you'd like a copy of my CV, or consult the official
+Feel free to reach out if you'd like a copy of my CV or check the official
 university version [here](https://janovas.unizar.es/sideral/CV/dario-suarez-gracia).
 
