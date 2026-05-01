@@ -9,12 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/~dario/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "List of publications per year.",
+  },{id: "nav-docencia-teaching",
+          title: "docencia/teaching",
+          description: "Esta página contiene información docente",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/~dario/publications/";
+            window.location.href = "/~dario/teaching/";
+          },
+        },{id: "nav-students",
+          title: "students",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/~dario/students/";
           },
         },{id: "nav-projects",
           title: "projects",
@@ -23,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/~dario/projects/";
           },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "List of never up-to-date publications.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/~dario/publications/";
+          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "Just some links to my teaching repos",
           section: "Navigation",
           handler: () => {
             window.location.href = "/~dario/repositories/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/~dario/cv/";
           },
         },{id: "post-a-post-with-plotly-js",
         
