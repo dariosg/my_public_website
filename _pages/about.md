@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://gaz.i3a.es/">gaZ</a>, <a href="http://diis.unizar.es/">diis</a>, <a href="http://i3a.unizar.es/">i3a</a>,  <a href="https://www.unizar.es/">unizar</a>, <a href="https://www.hipeac.net/">hipeac</a>
+subtitle: <a href="https://gaz.i3a.es/">gaZ</a>, <a href="https://diis.unizar.es/">diis</a>, <a href="https://i3a.unizar.es/">i3a</a>,  <a href="https://www.unizar.es/">unizar</a>, <a href="https://www.hipeac.net/">hipeac</a>
 
 profile:
   align: right
   image: dario_jr.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="http://sigeuz.unizar.es/?room=CRE.1200.00.400">Despacho 0.14</a></p>
+    <p><a href="https://sigeuz.unizar.es/?room=CRE.1200.00.400">Despacho 0.14</a></p>
     <p>Ed. Ada Byron. C\ María de Luna 1</p>
     <p>Zaragoza, España 50018</p>
 
